@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rain/CLionProjects/Maze/Maze.cpp
+iostream
+-
+Maze.h
+C:/Users/rain/CLionProjects/Maze/Maze.h
+
+C:/Users/rain/CLionProjects/Maze/Maze.h
+

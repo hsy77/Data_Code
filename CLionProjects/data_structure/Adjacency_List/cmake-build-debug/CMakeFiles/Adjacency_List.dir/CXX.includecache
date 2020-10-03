@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/Adjacency_List/Adjacency_list.cpp
+Adjacency_list.h
+D:/CLionProjects/Adjacency_List/Adjacency_list.h
+iostream
+-
+
+D:/CLionProjects/Adjacency_List/Adjacency_list.h
+map
+-
+queue
+-
+vector
+-
+
+D:/CLionProjects/Adjacency_List/main.cpp
+iostream
+-
+Adjacency_list.h
+D:/CLionProjects/Adjacency_List/Adjacency_list.h
+

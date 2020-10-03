@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/2-1/binary_tree.cpp
+binary_tree.h
+D:/CLionProjects/2-1/binary_tree.h
+
+D:/CLionProjects/2-1/binary_tree.h
+string
+-
+cstring
+-
+queue
+-
+vector
+-
+iostream
+-
+
+D:/CLionProjects/2-1/main.cpp
+iostream
+-
+binary_tree.h
+D:/CLionProjects/2-1/binary_tree.h
+

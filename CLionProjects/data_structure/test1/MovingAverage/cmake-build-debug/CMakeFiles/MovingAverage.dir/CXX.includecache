@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rain/CLionProjects/MovingAverage/Solution.h
+queue
+-
+
+C:/Users/rain/CLionProjects/MovingAverage/main.cpp
+iostream
+-
+Solution.h
+C:/Users/rain/CLionProjects/MovingAverage/Solution.h
+

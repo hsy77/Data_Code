@@ -1,0 +1,10 @@
+total 112
+drwxrwxrwx 1 hsy hsy  4096 Apr  5 22:15 .
+drwxrwxrwx 1 hsy hsy  4096 Apr  5 22:14 ..
+-rwxrwxrwx 1 hsy hsy 25031 Mar 17 10:19 CMakeCache.txt
+drwxrwxrwx 1 hsy hsy  4096 Apr  5 20:45 CMakeFiles
+-rwxrwxrwx 1 hsy hsy  5085 Apr  5 17:54 Makefile
+-rwxrwxrwx 1 hsy hsy  5891 Apr  5 17:54 MyShell.cbp
+-rwxrwxrwx 1 hsy hsy 62739 Apr  5 20:45 MyShell.exe
+-rwxrwxrwx 1 hsy hsy  1442 Mar 17 10:19 cmake_install.cmake
+-rwxrwxrwx 1 hsy hsy     0 Apr  5 22:15 result.txt

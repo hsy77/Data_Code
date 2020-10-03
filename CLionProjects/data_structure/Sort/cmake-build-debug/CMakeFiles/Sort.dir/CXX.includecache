@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rain/CLionProjects/Sort/Radix_Sorting.cpp
+stdlib.h
+-
+math.h
+-
+Radix_Sorting.h
+C:/Users/rain/CLionProjects/Sort/Radix_Sorting.h
+
+C:/Users/rain/CLionProjects/Sort/Radix_Sorting.h
+Record.h
+C:/Users/rain/CLionProjects/Sort/Record.h
+
+C:/Users/rain/CLionProjects/Sort/Record.h
+iostream
+-
+

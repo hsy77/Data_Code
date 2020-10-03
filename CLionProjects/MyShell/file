@@ -1,0 +1,11 @@
+total 52
+-rwxrwxrwx 1 hsy hsy   131 Mar 31 10:53 CMakeLists.txt
+drwxrwxrwx 1 hsy hsy  4096 Mar 31 10:53 cmake-build-debug
+-rwxrwxrwx 1 hsy hsy     0 Apr  5 16:50 file
+-rwxrwxrwx 1 hsy hsy  5362 Apr  5 16:48 main.c
+-rwxrwxrwx 1 hsy hsy 13480 Apr  5 16:48 myshell
+-rwxrwxrwx 1 hsy hsy  8200 Mar 31 10:54 procs1.c
+-rwxrwxrwx 1 hsy hsy    15 Mar 31 10:52 procs1.h
+-rwxrwxrwx 1 hsy hsy   457 Apr  5 16:48 result.txt
+drwxrwxrwx 1 hsy hsy  4096 Apr  5 15:16 test
+-rwxrwxrwx 1 hsy hsy 14745 Mar 30 22:47 top.c

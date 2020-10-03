@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rain/CLionProjects/Heap/Heap.h
+iostream
+-
+
+C:/Users/rain/CLionProjects/Heap/main.cpp
+iostream
+-
+cstring
+-
+Heap.h
+C:/Users/rain/CLionProjects/Heap/Heap.h
+

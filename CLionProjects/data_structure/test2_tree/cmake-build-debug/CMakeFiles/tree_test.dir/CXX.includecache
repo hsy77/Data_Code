@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/test2_tree/Build_tree.h
+iostream
+-
+string
+-
+queue
+-
+
+D:/CLionProjects/test2_tree/main.cpp
+iostream
+-
+fstream
+-
+Build_tree.h
+D:/CLionProjects/test2_tree/Build_tree.h
+split.h
+D:/CLionProjects/test2_tree/split.h
+
+D:/CLionProjects/test2_tree/split.h
+string
+-
+vector
+-
+

@@ -1,0 +1,3 @@
+C:/Users/rain/CLionProjects/backspaceCompare/cmake-build-debug/CMakeFiles/backspaceCompare.dir
+C:/Users/rain/CLionProjects/backspaceCompare/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rain/CLionProjects/backspaceCompare/cmake-build-debug/CMakeFiles/rebuild_cache.dir

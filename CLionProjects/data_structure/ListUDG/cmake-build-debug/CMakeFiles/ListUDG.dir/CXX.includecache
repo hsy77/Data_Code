@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/ListUDG/listUDG.cpp
+listUDG.h
+D:/CLionProjects/ListUDG/listUDG.h
+
+D:/CLionProjects/ListUDG/listUDG.h
+iomanip
+-
+iostream
+-
+vector
+-
+
+D:/CLionProjects/ListUDG/main.cpp
+iostream
+-
+listUDG.h
+D:/CLionProjects/ListUDG/listUDG.h
+

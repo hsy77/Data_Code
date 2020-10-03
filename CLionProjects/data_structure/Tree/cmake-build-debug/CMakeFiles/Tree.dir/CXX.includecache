@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rain/CLionProjects/Tree/Search_tree.cpp
+iostream
+-
+Search_tree.h
+C:/Users/rain/CLionProjects/Tree/Search_tree.h
+
+C:/Users/rain/CLionProjects/Tree/Search_tree.h
+stack
+-
+string
+-
+
+C:/Users/rain/CLionProjects/Tree/main.cpp
+iostream
+-
+Search_tree.h
+C:/Users/rain/CLionProjects/Tree/Search_tree.h
+

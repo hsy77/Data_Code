@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rain/CLionProjects/backspaceCompare/Solution.h
+string
+-
+stack
+-
+
+C:/Users/rain/CLionProjects/backspaceCompare/main.cpp
+iostream
+-
+Solution.h
+C:/Users/rain/CLionProjects/backspaceCompare/Solution.h
+
